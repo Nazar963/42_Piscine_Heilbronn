@@ -1,1 +1,1 @@
-# 42-Heilbronn-mine-
+# 42-Heilbronn-mine
