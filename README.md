@@ -1,6 +1,7 @@
 # 42 Heilbronn Piscine 🏊
 
 [![42 Heilbronn](https://img.shields.io/badge/42-Heilbronn-blue)](https://www.42heilbronn.de/)
+[![GitHub license](https://img.shields.io/github/license/Nazar963/42_Piscine_Heilbronn)](https://github.com/Nazar963/42_Piscine_Heilbronn/blob/master/LICENSE)
 [![Piscine Progress](https://img.shields.io/badge/Progress-56%25-brightgreen)](https://github.com/Nazar963/42_Piscine_Heilbronn)
 [![C Language](https://img.shields.io/badge/Language-C-00599C)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Shell Script](https://img.shields.io/badge/Shell-Bash-4EAA25)](https://www.gnu.org/software/bash/)
